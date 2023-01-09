@@ -62,7 +62,7 @@ print("my webserver is running....")
 httpd.serve_forever()
 ```
 # Output
-[!image](./thiyagarajan_webapp.png)
+![image](./thiyagarajan_webapp.png)
 # RESULT:
 
 The program is executed succesfully
